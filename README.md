@@ -1,1 +1,1 @@
-# vred-snap_align
+# VRED-SnapAlign
