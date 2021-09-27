@@ -2,7 +2,8 @@
 
 This is a VRED snap script file.
 
-It was developed by applying some ideas, and now only Grid Snap is added. The script code is public and can be modified by anyone.
+I developed Snap functionality by applying some ideas. Currently, only grid snap has been added.
+If you are interested in developing or have an idea, please develop it further.
 
 It's simple to use.
 Copy the script code.
